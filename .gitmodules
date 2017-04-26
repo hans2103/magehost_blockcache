@@ -1,3 +1,0 @@
-[submodule "app/code/community/MageHost/Cm/Cache/Backend"]
-	path = app/code/community/MageHost/Cm/Cache/Backend
-	url = https://github.com/magehost/magehost_cm_cache_backend

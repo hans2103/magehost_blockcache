@@ -1,13 +1,17 @@
 {
-  "name":"magehost/magehost_blockcache",
+  "name":"hans2103/magehost_blockcache",
   "type":"magento-module",
   "license":"GPL-3.0",
-  "homepage":"https://github.com/magehost/magehost_blockcache",
+  "homepage":"https://github.com/hans2103/magehost_blockcache",
   "description":"MageHost_BlockCache: Performance improvement by caching big blocks in Magento.",
   "authors":[
     {
       "name":"MagentoHosting.pro - Jeroen Vermeulen",
       "email":"jeroen@magehost.pro"
+    },
+    {
+      "name":"Hans Kuijpers",
+      "email":"info@hkweb.nl"
     }
   ],
   "require":{

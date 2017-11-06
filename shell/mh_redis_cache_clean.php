@@ -51,4 +51,3 @@ function Redis_Connect( $xmlFile )
 
     return $client;
 }
-

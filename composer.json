@@ -16,7 +16,8 @@
   ],
   "require":{
     "magento-hackathon/magento-composer-installer":"*",
-    "babyandmore/cache-backend-redis":"*",
+    "babyandmore/colinmollenhour_cache-backend-redis":"*",
+    "babyandmore/magehost_cm_cache_backend":"*",
     "colinmollenhour/cache-backend-file":"*"
   }
 }

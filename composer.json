@@ -1,5 +1,5 @@
 {
-  "name":"hans2103/magehost_blockcache",
+  "name":"babyandmore/magehost_blockcache",
   "type":"magento-module",
   "license":"GPL-3.0",
   "homepage":"https://github.com/hans2103/magehost_blockcache",
@@ -16,7 +16,7 @@
   ],
   "require":{
     "magento-hackathon/magento-composer-installer":"*",
-    "hans2103/colinmollenhour_cache-backend-redis":"*",
+    "babyandmore/cache-backend-redis":"*",
     "colinmollenhour/cache-backend-file":"*"
   }
 }
